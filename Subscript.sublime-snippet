@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[sub]$3[/sub]$0]]></content>
+  <description>Subscript (subscript)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>sub</tabTrigger>
+</snippet>
+<!-- This snippet serves as a subscript text shortcut. For suggestions t.me/horatiohusky -->

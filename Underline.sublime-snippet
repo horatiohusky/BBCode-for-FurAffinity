@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[u]$3[/u]$0]]></content>
+  <description>U (u)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>u</tabTrigger>
+</snippet>
+<!-- This snippet serves as an underline text shortcut. For suggestions t.me/horatiohusky -->

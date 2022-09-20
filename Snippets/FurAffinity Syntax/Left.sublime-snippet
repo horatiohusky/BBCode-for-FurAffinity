@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[left]$3[/left]$0]]></content>
+  <description>Left (left)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>l</tabTrigger>
+</snippet>
+<!-- This snippet serves as an orient text left shortcut. For suggestions t.me/horatiohusky-->

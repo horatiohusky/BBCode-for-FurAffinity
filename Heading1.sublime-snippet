@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[H1]$3[/H1]$0]]></content>
+  <description>Heading 1 (heading 1)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>H1</tabTrigger>
+</snippet>
+<!-- This snippet serves as an Header 1 shortcut. For suggestions t.me/horatiohusky -->

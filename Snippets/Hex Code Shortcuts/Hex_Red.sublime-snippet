@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#ff0000]]></content>
+  <description>Red Hex Code (red hex code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>red</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color red. For suggestions t.me/horatiohusky -->

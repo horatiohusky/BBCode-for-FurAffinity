@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[right]$3[/right]$0]]></content>
+  <description>Right (right)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>r</tabTrigger>
+</snippet>
+<!-- This snippet serves as an orient text right shortcut. For suggestions t.me/horatiohusky -->
