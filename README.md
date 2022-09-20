@@ -42,7 +42,7 @@ will elicit an outpute described on the right.
 
 <strong>Shortcut | Effect</strong>
 ```
-    color palette           Returns 8 blank color slots
+    color palette   Returns 8 blank color slots
 ```
 
 ## Emoticon Lists
