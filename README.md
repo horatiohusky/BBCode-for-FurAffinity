@@ -58,12 +58,29 @@ will elicit an outputed list of emojis listed on the right.
     gestures        Gestures emoji keyboard
     hieroglyphs     Hieroglyphs keyboard
     objects         Objects emoji keyboard
+    
     people          People emoji keyboard
     smileys         Smileys emoji keyboard
     sports          Sports emoji keyboard
     symbols         Symbols emoji keyboard
     travel          Travel emoji keyboard
     unicode         Unicode symbols keyboard
+
+    zodiac          Zodiac symbols keyboard
+    stars           Star symbols keyboard
+    music           Music symbols keyboard
+    flowers         Flower symbols keyboard
+    arrows          Arrow symbols keyboard
+    law             Law symbols keyboard
+    chess           Chess symbols keyboard
+
+    round          Round symbols keyboard
+    triangle       Triangle symbols keyboard
+    circle         Circle symbols keyboard
+    planets        Planets symbols keyboard
+    crosses        Cross symbols keyboard
+    fractions      Fraction symbols keyboard
+
 ```
 
 ## Hex Code Shortcuts

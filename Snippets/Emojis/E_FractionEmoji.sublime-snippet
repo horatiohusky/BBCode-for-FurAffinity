@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+∞ π
+⅟ ½ ⅓ ⅕
+⅙ ⅛ ⅔ ⅖
+⅚ ⅜ ¾ ⅗
+⅝ ⅞   ⅘
+]]></content>
+  <description>Fraction Symbols List (fraction symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>fractions</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of fraction symbols. For suggestions t.me/horatiohusky -->

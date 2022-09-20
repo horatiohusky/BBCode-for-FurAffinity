@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+▲ ▼ ◄ ► ▶ ◀ ◣
+◢ ◥ ◤ ◥ ▸ ◂
+▴ ▾ △ ▽ ▷ ◁ ⊿
+▻ ◅ ▵ ▿ ▹ ◃
+]]></content>
+  <description>Triangle Symbols List (triangle symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>triangle</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of triangle symbols. For suggestions t.me/horatiohusky -->

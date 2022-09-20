@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉
+➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓
+Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ
+Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ
+Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ
+ⓐ ⓑ ⓒ ⓓ ⓔ ⓕ ⓖ ⓗ ⓘ ⓙ
+ⓚ ⓛ ⓜ ⓝ ⓞ ⓟ ⓠ ⓡ ⓢ ⓣ
+ⓤ ⓥ ⓦ ⓧ ⓨ ⓩ
+]]></content>
+  <description>Round Symbols List (round symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>round</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of round symbols. For suggestions t.me/horatiohusky -->
