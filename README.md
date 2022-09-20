@@ -126,7 +126,6 @@ will elicit the equivalent hex code listed on the right.
     border8         ╔═⛧ﾐ
     border9         ┍━♔
     border10        ┍━♛
-
 ```
 ##### Page Breaks
 ```
@@ -146,7 +145,6 @@ will elicit the equivalent hex code listed on the right.
     hangingstarsbreaks  ＊*•̩̩͙✩•̩̩͙*˚　　˚*•̩̩͙✩•̩̩͙*˚＊
     cutebreaks          ⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆
     sparklesbreaks      ●・○・●・○・●・○・●・○・●
-
 ```
 
 
