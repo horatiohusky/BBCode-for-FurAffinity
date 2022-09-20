@@ -55,8 +55,8 @@ will elicit an outputed list of emojis listed on the right.
     animals         Animals emoji keyboard
     clothes         Clothes emoji keyboard
     food            Food emoji keyboard
-    gestures           Gestures emoji keyboard
-    hieroglyphs        Hieroglyphs keyboard
+    gestures        Gestures emoji keyboard
+    hieroglyphs     Hieroglyphs keyboard
     objects         Objects emoji keyboard
     people          People emoji keyboard
     smileys         Smileys emoji keyboard
