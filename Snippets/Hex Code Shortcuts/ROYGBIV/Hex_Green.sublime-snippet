@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#00ff00]]></content>
+  <description>Green Hex Code (green hex code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>green</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color green. For suggestions t.me/horatiohusky -->

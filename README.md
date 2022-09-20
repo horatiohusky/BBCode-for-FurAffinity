@@ -72,6 +72,8 @@ Pressing 'Tab' after typing any of the phrases on the left
 will elicit the equivalent hex code listed on the right.
 
 <strong>Shortcut | Hex Code</strong>
+
+##### ROYGBIV
 ```
     Red         #ff0000       
     Orange      #ffa500
@@ -81,8 +83,24 @@ will elicit the equivalent hex code listed on the right.
     Indigo      #4b0082
     Violet      #ee82ee
 ```
-
-
+##### Pastels
+```
+    Antiquewhite    #faebd7
+    Beige           #f5f5dc
+    Bisque          #ffe4c4
+    Blanchedalmond  #ffebcd
+    Cornsilk        #fff8dc
+    Floralwhite     #fffaf0
+    Ghostwhite      #f8f8ff
+    Ivory           #fffff0
+    Lavenderblush   #fffff0
+    Linen           #faf0e6
+    Oldlace         #fdf5e6
+    Papayawhip      #ffefd5n
+    Seashell        #fff5ee
+    Snow            #fffafa
+    Whitesmoke      #f5f5f5
+```
 
 
 
