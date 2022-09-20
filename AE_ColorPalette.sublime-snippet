@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+    [color=]██████[/color]
+    [color=]██████[/color]
+    [color=]██████[/color]
+    [color=]██████[/color]
+    [color=]██████[/color]
+    [color=]██████[/color]
+    [color=]██████[/color]
+    [color=]██████[/color]
+    ]]></content>
+  <description>Blank Color Palette (blank color palette)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>color palette</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate a blank color palette. For suggestions t.me/horatiohusky -->

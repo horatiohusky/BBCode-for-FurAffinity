@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[sup]$3[/sup]$0]]></content>
+  <description>Superscript (superscript)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>sup</tabTrigger>
+</snippet>
+<!-- This snippet serves as a superscript text shortcut. For suggestions t.me/horatiohusky -->
