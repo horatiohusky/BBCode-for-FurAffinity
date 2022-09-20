@@ -92,7 +92,6 @@ will elicit the equivalent hex code listed on the right.
     Grey        #bebebe
     Gold        #ffd700
     Silver      #c0c0c0
-
 ```
 ##### Pastels
 ```
