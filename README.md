@@ -42,7 +42,7 @@ will elicit an outpute described on the right.
 
 <strong>Shortcut | Effect</strong>
 ```
-    color palette           Returns 8 blank color slots
+    color palette   Returns 8 blank color slots
 ```
 
 ## Emoticon Lists
@@ -55,8 +55,8 @@ will elicit an outputed list of emojis listed on the right.
     animals         Animals emoji keyboard
     clothes         Clothes emoji keyboard
     food            Food emoji keyboard
-    gestures                Gestures emoji keyboard
-    hieroglyphs             Hieroglyphs keyboard
+    gestures        Gestures emoji keyboard
+    hieroglyphs     Hieroglyphs keyboard
     objects         Objects emoji keyboard
     people          People emoji keyboard
     smileys         Smileys emoji keyboard
@@ -92,7 +92,6 @@ will elicit the equivalent hex code listed on the right.
     Grey        #bebebe
     Gold        #ffd700
     Silver      #c0c0c0
-
 ```
 ##### Pastels
 ```
@@ -127,27 +126,25 @@ will elicit the equivalent hex code listed on the right.
     border8         ╔═⛧ﾐ
     border9         ┍━♔
     border10        ┍━♛
-
 ```
 ##### Page Breaks
 ```
-    break1          ≿━━━━༺❀༻━━━━≾
-    break2          ༻✦༺ ༻✧༺ ༻✦༺
-    break3          . ⋅ ˚̣- : ✧ : – ⭒ ⊹ ⭒ – : ✧ : -˚̣⋅ .
-    break4          ◈𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 ◈
-    break5          ༻﹡﹡﹡﹡﹡﹡﹡༺
-    break6          ⊱ ────── {.⋅ ♫ ⋅.} ────── ⊰
-    break7          ⊱ ────── {⋅. ♪ .⋅} ────── ⊰
-    break8          ───── ❝ 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 ❞ ─────
-    break9          ✥﹤┈┈┈┈┈┈┈┈﹥✥
-    break10         ‿︵‿︵ʚ˚̣̣̣͙ɞ・❉・ ʚ˚̣̣̣͙ɞ‿︵‿︵
+    break1              ≿━━━━༺❀༻━━━━≾
+    break2              ༻✦༺ ༻✧༺ ༻✦༺
+    break3              . ⋅ ˚̣- : ✧ : – ⭒ ⊹ ⭒ – : ✧ : -˚̣⋅ .
+    break4              ◈𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 ◈
+    break5              ༻﹡﹡﹡﹡﹡﹡﹡༺
+    break6              ⊱ ────── {.⋅ ♫ ⋅.} ────── ⊰
+    break7              ⊱ ────── {⋅. ♪ .⋅} ────── ⊰
+    break8              ───── ❝ 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 ❞ ─────
+    break9              ✥﹤┈┈┈┈┈┈┈┈﹥✥
+    break10             ‿︵‿︵ʚ˚̣̣̣͙ɞ・❉・ ʚ˚̣̣̣͙ɞ‿︵‿︵
 
     naturebreaks        ⋆┈┈｡ﾟ❃ུ۪ ❀ུ۪ ❁ུ۪ ❃ུ۪ ❀ུ۪ ﾟ｡┈┈⋆
     galacticbreaks      ‧͙⁺˚*･༓☾　　☽༓･*˚⁺‧͙
     hangingstarsbreaks  ＊*•̩̩͙✩•̩̩͙*˚　　˚*•̩̩͙✩•̩̩͙*˚＊
     cutebreaks          ⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆
     sparklesbreaks      ●・○・●・○・●・○・●・○・●
-
 ```
 
 
