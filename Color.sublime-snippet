@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[[color${1:=${2:}}]$3[/color]$0]]></content>
-  <description>Color (color)</description>
-  <scope>text.bbcode</scope>
-  <tabTrigger>co</tabTrigger>
-</snippet>
-<!-- This snippet serves as a color coding shortcut. For suggestions t.me/horatiohusky -->

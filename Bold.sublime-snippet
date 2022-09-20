@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[[b]$3[/b]$0]]></content>
-  <description>B (b)</description>
-  <scope>text.bbcode</scope>
-  <tabTrigger>b</tabTrigger>
-</snippet>
-<!-- This snippet serves as a bold shortcut. For suggestions t.me/horatiohusky -->

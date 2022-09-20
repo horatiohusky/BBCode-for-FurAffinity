@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[[spoiler]$3[/spoiler]$0]]></content>
-  <description>Spoiler (spoiler)</description>
-  <scope>text.bbcode</scope>
-  <tabTrigger>sp</tabTrigger>
-</snippet>
-<!-- This snippet serves as a spoiler text shortcut. For suggestions t.me/horatiohusky -->

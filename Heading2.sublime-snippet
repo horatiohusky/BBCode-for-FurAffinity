@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[[H2]$3[/H2]$0]]></content>
-  <description>Heading 2 (heading 2)</description>
-  <scope>text.bbcode</scope>
-  <tabTrigger>H2</tabTrigger>
-</snippet>
-<!-- This snippet serves as an Header 2 shortcut. For suggestions t.me/horatiohusky -->

@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-𓀀 𓀁 𓀂 𓀃 𓀄 𓀅 𓀆 𓀇 𓀈 𓀉 𓀊 𓀋 𓀌 𓀍 𓀎 𓀏 𓀐 𓀑 𓀒 𓀓 𓀔 𓀕 𓀖 𓀗 𓀘 𓀙 𓀚 𓀛 𓀜 𓀝
-    ]]></content>
-  <description>Hieroglyphs List (hieroglyphs list)</description>
-  <scope>text.bbcode</scope>
-  <tabTrigger>hieroglyphs</tabTrigger>
-</snippet>
-<!-- This snippet serves as a shortcut to generate the entire list of hieroglyph emojis. For suggestions t.me/horatiohusky -->

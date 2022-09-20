@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[[yt${1:=${2:}}]$3[/yt]$0]]></content>
-  <description>YouTube (youtube)</description>
-  <scope>text.bbcode</scope>
-  <tabTrigger>yt</tabTrigger>
-</snippet>
-<!-- This snippet serves as a strike shortcut. For suggestions t.me/horatiohusky -->
