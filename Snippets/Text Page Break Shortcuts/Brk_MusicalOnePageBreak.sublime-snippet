@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[⊱ ────── {.⋅ ♫ ⋅.} ────── ⊰]]></content>
+  <description>Musical One Page Break (musical one page break)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>break6</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a musical page break. For suggestions t.me/horatiohusky -->

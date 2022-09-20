@@ -83,6 +83,17 @@ will elicit the equivalent hex code listed on the right.
     Indigo      #4b0082
     Violet      #ee82ee
 ```
+##### ROYGBIV Plus
+```
+    Orange      #ffa500
+    Brown       #a52a2a
+    Black       #000000
+    White       #ffffff
+    Grey        #bebebe
+    Gold        #ffd700
+    Silver      #c0c0c0
+
+```
 ##### Pastels
 ```
     Antiquewhite    #faebd7
@@ -100,6 +111,43 @@ will elicit the equivalent hex code listed on the right.
     Seashell        #fff5ee
     Snow            #fffafa
     Whitesmoke      #f5f5f5
+```
+
+## Brackets and Borders
+
+##### Text Bracket Borders
+```
+    border1         ╔═
+    border2         ┏━━
+    border3         ╭─━━
+    border4         ╭⸻
+    border5         ┍━★
+    border6         ┍━⋆⋅☆
+    border7         ┍━✿
+    border8         ╔═⛧ﾐ
+    border9         ┍━♔
+    border10        ┍━♛
+
+```
+##### Page Breaks
+```
+    break1          ≿━━━━༺❀༻━━━━≾
+    break2          ༻✦༺ ༻✧༺ ༻✦༺
+    break3          . ⋅ ˚̣- : ✧ : – ⭒ ⊹ ⭒ – : ✧ : -˚̣⋅ .
+    break4          ◈𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 ◈
+    break5          ༻﹡﹡﹡﹡﹡﹡﹡༺
+    break6          ⊱ ────── {.⋅ ♫ ⋅.} ────── ⊰
+    break7          ⊱ ────── {⋅. ♪ .⋅} ────── ⊰
+    break8          ───── ❝ 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 ❞ ─────
+    break9          ✥﹤┈┈┈┈┈┈┈┈﹥✥
+    break10         ‿︵‿︵ʚ˚̣̣̣͙ɞ・❉・ ʚ˚̣̣̣͙ɞ‿︵‿︵
+
+    naturebreaks        ⋆┈┈｡ﾟ❃ུ۪ ❀ུ۪ ❁ུ۪ ❃ུ۪ ❀ུ۪ ﾟ｡┈┈⋆
+    galacticbreaks      ‧͙⁺˚*･༓☾　　☽༓･*˚⁺‧͙
+    hangingstarsbreaks  ＊*•̩̩͙✩•̩̩͙*˚　　˚*•̩̩͙✩•̩̩͙*˚＊
+    cutebreaks          ⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆
+    sparklesbreaks      ●・○・●・○・●・○・●・○・●
+
 ```
 
 

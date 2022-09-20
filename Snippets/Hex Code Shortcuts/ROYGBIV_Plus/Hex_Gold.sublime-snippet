@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#ffd700]]></content>
+  <description>Gold Hex Code (gold hex code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>gold</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color gold. For suggestions t.me/horatiohusky -->

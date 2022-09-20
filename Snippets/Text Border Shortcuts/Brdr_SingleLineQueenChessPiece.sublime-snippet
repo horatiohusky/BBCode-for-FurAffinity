@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[┍━━━━━━━♛━━━━━━━┑
+
+┕━━━━━━━♛━━━━━━━┙]]></content>
+  <description>Single Line Queen Chess Piece Border (single line queen chess piece border)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>border10</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a single line queen chess piece text border. For suggestions t.me/horatiohusky -->

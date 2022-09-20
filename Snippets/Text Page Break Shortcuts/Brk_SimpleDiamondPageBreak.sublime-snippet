@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[◈𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 𝅒 𝅓 ◈]]></content>
+  <description>Simple Diamond Page Break (simple diamond page break)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>break4</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a simple diamond page break. For suggestions t.me/horatiohusky -->

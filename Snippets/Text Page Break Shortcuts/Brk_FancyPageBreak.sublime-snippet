@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[༻﹡﹡﹡﹡﹡﹡﹡༺]]></content>
+  <description>Fancy Page Break (fancy page break)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>break5</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a fancy page break. For suggestions t.me/horatiohusky -->

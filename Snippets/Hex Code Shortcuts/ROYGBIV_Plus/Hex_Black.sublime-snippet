@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#000000]]></content>
+  <description>Black Hex Code (black hex code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>black</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color black. For suggestions t.me/horatiohusky -->

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[✥﹤┈┈┈┈┈┈┈┈﹥✥]]></content>
+  <description>Semi-Fancy Page Break (semi-fancy page break)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>break9</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a semi-fancy page break. For suggestions t.me/horatiohusky -->

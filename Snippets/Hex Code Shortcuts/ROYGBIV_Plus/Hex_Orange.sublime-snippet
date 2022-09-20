@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#ffa500]]></content>
+  <description>Orange Hex Code (orange hex code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>orange</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color orange. For suggestions t.me/horatiohusky -->

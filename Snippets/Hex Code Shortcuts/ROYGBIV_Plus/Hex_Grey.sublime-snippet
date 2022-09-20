@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#bebebe]]></content>
+  <description>Grey Hex Code (grey hex code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>grey</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color grey. For suggestions t.me/horatiohusky -->

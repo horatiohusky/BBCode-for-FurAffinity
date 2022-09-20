@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[╔═══════════════╗
+
+╚═══════════════╝]]></content>
+  <description>Double Lined Square Border (double lined square border)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>border1</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a double lined square text border. For suggestions t.me/horatiohusky -->

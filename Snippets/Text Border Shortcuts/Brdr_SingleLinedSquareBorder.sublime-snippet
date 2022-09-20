@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[┏━━━━━━━━━━━━━━━┓
+
+┗━━━━━━━━━━━━━━━┛]]></content>
+  <description>Single Line Square Border (single line square border)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>border2</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a single line square text border. For suggestions t.me/horatiohusky -->

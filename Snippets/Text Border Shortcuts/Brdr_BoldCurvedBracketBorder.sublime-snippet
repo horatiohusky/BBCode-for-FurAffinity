@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[╭─━━━━━━━━━━━━─╮
+
+╰─━━━━━━━━━━━━─╯]]></content>
+  <description>Bold Curved Bracket Border (bold curved bracket border)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>border3</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a bold curved bracket text border. For suggestions t.me/horatiohusky -->

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[┍━━━━━ ⋆⋅☆⋅⋆ ━━━━━┑
+
+┕━━━━━ ⋆⋅☆⋅⋆ ━━━━━┙]]></content>
+  <description>Single Line Star Two Border (single line star two border)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>border6</tabTrigger>
+</snippet>
+ <!--This snippet serves as a shortcut to output a single line star text border. For suggestions t.me/horatiohusky -->
