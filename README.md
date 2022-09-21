@@ -7,14 +7,13 @@ This is a fork of the [BBCode Bundle for Sublime Text][1] by chipotle
 ## How to Install
 
 Step 1. Download [Sublime Text](https://www.sublimetext.com/download).
-![StepOneImage](\BBCode-for-FurAffinity\HowtoInstall\StepOne.PNG?raw=true "#1.")
-
+![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepOne.PNG "#1.")
 Step 2. Install, Launch, and then go to Tools > Install Package Control. Hit OK and Package Control will install.
-
+![]()
 Step 3. Preferences > Package Control and then type 'Install Package' and hit enter. Also possible with the shortcut 'CTRL+SHIFT+P'
-
+![]()
 Step 4. In new search bar look up 'BBCode-for-FurAffinity' and click on result to download. Restart Sublime Text before using. 
-
+![]()
 Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into Preferences > Browse packages.
 
 ## General Shortcuts
