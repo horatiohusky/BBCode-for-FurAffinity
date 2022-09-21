@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[center]$3[/center]$0]]></content>
+  <description>Center (center)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>c</tabTrigger>
+</snippet>
+<!-- This snippet serves as an orient text center shortcut. For suggestions t.me/horatiohusky -->

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+♔ ♕ ♖ ♗ ♘ ♙
+♚ ♛ ♜ ♝ ♞ ♟
+]]></content>
+  <description>Chess Symbols List (chess symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>chess</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of chess symbols. For suggestions t.me/horatiohusky -->

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+♪ ♫ ♩
+♬ ♭ ♮
+♯ ° ø
+]]></content>
+  <description>Music Symbols List (music symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>music</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of music symbols. For suggestions t.me/horatiohusky -->

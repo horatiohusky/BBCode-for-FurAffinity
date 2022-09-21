@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[i]$3[/i]$0]]></content>
+  <description>I (i)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>i</tabTrigger>
+</snippet>
+<!-- This snippet serves as an italics shortcut. For suggestions t.me/horatiohusky -->

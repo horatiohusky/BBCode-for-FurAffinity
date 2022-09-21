@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+⋆ ✢ ✣ ✤ ✥ ❋
+✦ ✧ ✩ ✰ ✪ ✫
+✬ ✭ ✮ ✯ ❂ ✡
+★ ✱ ✲ ✳ ✴
+✵ ✶ ✷ ✸ ✹
+✺ ✻ ✼ ❄ ❅
+❆ ❇ ❈ ❉ ❊
+]]></content>
+  <description>Stars Symbols List (stars symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>stars</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of star symbols. For suggestions t.me/horatiohusky -->

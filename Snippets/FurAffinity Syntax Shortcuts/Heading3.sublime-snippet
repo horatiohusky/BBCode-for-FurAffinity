@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[H3]$3[/H3]$0]]></content>
+  <description>Heading 3 (heading 3)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>H3</tabTrigger>
+</snippet>
+<!-- This snippet serves as an Header 3 shortcut. For suggestions t.me/horatiohusky -->

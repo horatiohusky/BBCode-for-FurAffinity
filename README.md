@@ -6,15 +6,19 @@ This is a fork of the [BBCode Bundle for Sublime Text][1] by chipotle
 
 ## How to Install
 
-Step 1. Download [Sublime Text](https://www.sublimetext.com/download).
+Step 1. Download [Sublime Text 4](https://www.sublimetext.com/download).
 ![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepOne.PNG "#1.")
-Step 2. Install, Launch, and then go to Tools > Install Package Control. Hit OK and Package Control will install.
-![]()
-Step 3. Preferences > Package Control and then type 'Install Package' and hit enter. Also possible with the shortcut 'CTRL+SHIFT+P'
-![]()
+
+Step 2. Install, Launch, and then go to **`Tools > Install Package Control`**. Hit OK and Package Control will install.
+![StepTwoImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepTwo.PNG "")
+
+Step 3. **`Preferences > Package Control`** and then type 'Install Package' and hit <kbd>Enter</kbd>. Also possible with the shortcut <kbd>Ctrl+Shift+P</kbd>
+![StepThreeImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepThree.PNG "")
+
 Step 4. In new search bar look up 'BBCode-for-FurAffinity' and click on result to download. Restart Sublime Text before using. 
-![]()
-Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into Preferences > Browse packages.
+![StepFourImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepFour.PNG "")
+
+Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into **`Preferences > Browse packages`**.
 
 ## General Shortcuts
 
@@ -55,7 +59,7 @@ will elicit an outpute described on the right.
 <strong>Shortcut | Effect</strong>
 ```
     color palette   Returns 8 blank color slots
-
+    spaced bullets  Returns 8 place holder bullets
 ```
 
 ## Emoticon Lists

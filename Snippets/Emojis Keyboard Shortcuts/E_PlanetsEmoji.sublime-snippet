@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+☉ Sun, ☽ ☾ ● ◯ Moon, ☿ Mercury, ♀ Venus, ⊕ ♁ Earth, ♂ Mars, ♃ Jupiter, ♄ Saturn, ♅ Uranus, ♆ Neptune, ♇ Pluto, ⚳ Ceres. ☄ Comet.
+]]></content>
+  <description>Planet Symbols List (planet symbols list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>planets</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of planet symbols. For suggestions t.me/horatiohusky -->
