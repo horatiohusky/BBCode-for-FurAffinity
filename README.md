@@ -7,16 +7,20 @@ This is a fork of the [BBCode Bundle for Sublime Text][1] by chipotle
 ## How to Install
 
 Step 1. Download [Sublime Text 4](https://www.sublimetext.com/download).
+
 ![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepOne.PNG "#1.")
 
 Step 2. Install, Launch, and then go to **`Tools > Install Package Control`**. Hit OK and Package Control will install.
-![StepTwoImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepTwo.PNG "")
 
-Step 3. **`Preferences > Package Control`** and then type 'Install Package' and hit <kbd>Enter</kbd>. Also possible with the shortcut <kbd>Ctrl+Shift+P</kbd>
-![StepThreeImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepThree.PNG "")
+![StepTwoImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepTwo.PNG "#2")
+
+Step 3. **`Preferences > Package Control`** and then type 'Install Package' and hit <kbd>Enter</kbd>. Also possible with the shortcut <kbd>Ctrl+Shift+P</kbd>.
+
+![StepThreeImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepThree.PNG "#3")
 
 Step 4. In new search bar look up 'BBCode-for-FurAffinity' and click on result to download. Restart Sublime Text before using. 
-![StepFourImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepFour.PNG "")
+
+![StepFourImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepFour.PNG "#4")
 
 Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into **`Preferences > Browse packages`**.
 
