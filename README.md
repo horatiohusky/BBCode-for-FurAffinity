@@ -4,6 +4,16 @@ This is a fork of the [BBCode Bundle for Sublime Text][1] by chipotle
 
 [1]: https://github.com/chipotle
 
+## How to Install
+
+Step 1. Download [Sublime Text](https://www.sublimetext.com/download).
+[]()
+Step 2. Install, Launch, and then go to Tools > Install Package Control. Hit OK and Package Control will install.
+Step 3. Preferences > Package Control and then type 'Install Package' and hit enter. Also possible with the shortcut 'CTRL+SHIFT+P'
+Step 4. In new search bar look up 'BBCode-for-FurAffinity' and click on result to download. Restart Sublime Text before using. 
+
+Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into Preferences > Browse packages.
+
 ## General Shortcuts
 
 Pressing 'Tab' after typing any of the symbols on the left
@@ -74,13 +84,12 @@ will elicit an outputed list of emojis listed on the right.
     law             Law symbols keyboard
     chess           Chess symbols keyboard
 
-    round          Round symbols keyboard
-    triangle       Triangle symbols keyboard
-    circle         Circle symbols keyboard
-    planets        Planets symbols keyboard
-    crosses        Cross symbols keyboard
-    fractions      Fraction symbols keyboard
-
+    round           Round symbols keyboard
+    triangle        Triangle symbols keyboard
+    circle          Circle symbols keyboard
+    planets         Planets symbols keyboard
+    crosses         Cross symbols keyboard
+    fractions       Fraction symbols keyboard
 ```
 
 ## Hex Code Shortcuts
