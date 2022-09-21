@@ -7,9 +7,12 @@ This is a fork of the [BBCode Bundle for Sublime Text][1] by chipotle
 ## How to Install
 
 Step 1. Download [Sublime Text](https://www.sublimetext.com/download).
-[]()
+![StepOneImage](\BBCode-for-FurAffinity\HowtoInstall\StepOne.PNG?raw=true "#1.")
+
 Step 2. Install, Launch, and then go to Tools > Install Package Control. Hit OK and Package Control will install.
+
 Step 3. Preferences > Package Control and then type 'Install Package' and hit enter. Also possible with the shortcut 'CTRL+SHIFT+P'
+
 Step 4. In new search bar look up 'BBCode-for-FurAffinity' and click on result to download. Restart Sublime Text before using. 
 
 Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into Preferences > Browse packages.
@@ -53,6 +56,7 @@ will elicit an outpute described on the right.
 <strong>Shortcut | Effect</strong>
 ```
     color palette   Returns 8 blank color slots
+
 ```
 
 ## Emoticon Lists
@@ -101,41 +105,41 @@ will elicit the equivalent hex code listed on the right.
 
 ##### ROYGBIV
 ```
-    Red         #ff0000       
-    Orange      #ffa500
-    Yellow      #ffff00
-    Green       #00ff00
-    Blue        #0000ff
-    Indigo      #4b0082
-    Violet      #ee82ee
+    red         #ff0000       
+    orange      #ffa500
+    yellow      #ffff00
+    green       #00ff00
+    blue        #0000ff
+    indigo      #4b0082
+    violet      #ee82ee
 ```
 ##### ROYGBIV Plus
 ```
-    Orange      #ffa500
-    Brown       #a52a2a
-    Black       #000000
-    White       #ffffff
-    Grey        #bebebe
-    Gold        #ffd700
-    Silver      #c0c0c0
+    orange      #ffa500
+    brown       #a52a2a
+    black       #000000
+    white       #ffffff
+    grey        #bebebe
+    gold        #ffd700
+    silver      #c0c0c0
 ```
 ##### Pastels
 ```
-    Antiquewhite    #faebd7
-    Beige           #f5f5dc
-    Bisque          #ffe4c4
-    Blanchedalmond  #ffebcd
-    Cornsilk        #fff8dc
-    Floralwhite     #fffaf0
-    Ghostwhite      #f8f8ff
-    Ivory           #fffff0
-    Lavenderblush   #fffff0
-    Linen           #faf0e6
-    Oldlace         #fdf5e6
-    Papayawhip      #ffefd5n
-    Seashell        #fff5ee
-    Snow            #fffafa
-    Whitesmoke      #f5f5f5
+    antiquewhite    #faebd7
+    beige           #f5f5dc
+    bisque          #ffe4c4
+    blanchedalmond  #ffebcd
+    cornsilk        #fff8dc
+    floralwhite     #fffaf0
+    ghostwhite      #f8f8ff
+    ivory           #fffff0
+    lavenderblush   #fffff0
+    linen           #faf0e6
+    oldlace         #fdf5e6
+    papayawhip      #ffefd5n
+    seashell        #fff5ee
+    snow            #fffafa
+    whitesmoke      #f5f5f5
 ```
 
 ## Brackets and Borders
