@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#f0ffff]]></content>
+  <description>Azure Code (azure code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>azure</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color azure. For suggestions t.me/horatiohusky -->

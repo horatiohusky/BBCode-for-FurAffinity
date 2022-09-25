@@ -1,8 +1,8 @@
-# BBCode for FurAffinity Bundle for Sublime Text by t.me/horatiohusky
+# BBCode for FurAffinity Bundle for Sublime Text
 
-This is a fork of the [BBCode Bundle for Sublime Text][1] by chipotle
+This is a fork by t.me/horatiohusky of the [BBCode Bundle for Sublime Text][1] by chipotle
 
-[1]: https://github.com/chipotle
+[1]: https://github.com/chipotle/BBCode
 
 ## How to Install
 
@@ -64,6 +64,8 @@ will elicit an outpute described on the right.
 ```
     color palette   Returns 8 blank color slots
     spaced bullets  Returns 8 place holder bullets
+    18+warning      Returns an 18+ warning message
+    thankyou        Returns a thank you message
 ```
 
 ## Emoticon Lists
@@ -129,7 +131,16 @@ will elicit the equivalent hex code listed on the right.
     grey        #bebebe
     gold        #ffd700
     silver      #c0c0c0
+    cyan        #00ffff
+    magenta     #ff00ff
 ```
+##### Blues
+```
+   aliceblue    #f0f8ff
+   azure        #f0ffff
+   lightcyan    #e0ffff
+```
+
 ##### Pastels
 ```
     antiquewhite    #faebd7

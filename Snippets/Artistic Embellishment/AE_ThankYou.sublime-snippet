@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[sup][b]Thank you for the watch, favorite, or comment![/b][/sup]]]></content>
+  <description>Thank You (thank you)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>thankyou+</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate an 18+ content warning. For suggestions t.me/horatiohusky -->

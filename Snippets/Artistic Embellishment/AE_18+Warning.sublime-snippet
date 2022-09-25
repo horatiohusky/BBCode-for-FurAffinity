@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[[sup][b]The content found on this page
+is suitable only for ages 18+[/b][/sup]]]></content>
+  <description>18+ Warning (18+ warning)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>18+warning</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate an 18+ content warning. For suggestions t.me/horatiohusky -->

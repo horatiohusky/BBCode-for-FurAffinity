@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#e0ffff]]></content>
+  <description>Light Cyan Code (light cyan code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>lightcyan</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color light cyan. For suggestions t.me/horatiohusky -->

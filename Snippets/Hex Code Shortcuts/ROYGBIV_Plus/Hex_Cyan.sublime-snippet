@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[#00ffff]]></content>
+  <description>Cyan Code (cyan code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>cyan</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the hex code for the color cyan. For suggestions t.me/horatiohusky -->
