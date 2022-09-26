@@ -66,6 +66,7 @@ will elicit an outpute described on the right.
     spaced bullets  Returns 8 place holder bullets
     18+warning      Returns an 18+ warning message
     thankyou        Returns a thank you message
+    artstatus       Returns a blank art status template
 ```
 
 ## Emoticon Lists
@@ -139,6 +140,9 @@ will elicit the equivalent hex code listed on the right.
    aliceblue    #f0f8ff
    azure        #f0ffff
    lightcyan    #e0ffff
+   paleturqoise #afeeeee
+   powderblue   #b0e0e6
+   lightblue    #add8e6
 ```
 
 ##### Pastels
@@ -187,7 +191,9 @@ will elicit the equivalent hex code listed on the right.
     break8              ───── ❝ 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 ❞ ─────
     break9              ✥﹤┈┈┈┈┈┈┈┈﹥✥
     break10             ‿︵‿︵ʚ˚̣̣̣͙ɞ・❉・ ʚ˚̣̣̣͙ɞ‿︵‿︵
-
+```
+##### Page Break Lists
+```
     naturebreaks        ⋆┈┈｡ﾟ❃ུ۪ ❀ུ۪ ❁ུ۪ ❃ུ۪ ❀ུ۪ ﾟ｡┈┈⋆
     galacticbreaks      ‧͙⁺˚*･༓☾　　☽༓･*˚⁺‧͙
     hangingstarsbreaks  ＊*•̩̩͙✩•̩̩͙*˚　　˚*•̩̩͙✩•̩̩͙*˚＊

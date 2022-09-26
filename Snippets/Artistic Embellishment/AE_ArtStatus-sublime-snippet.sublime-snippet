@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[[b][u]Artist Status[/u][/b]
+[b]Commissions[/b]: NA
+[b]Trades[/b]: NA
+[b]Requests[/b]: NA]]></content>
+  <description>Art Status Code (art status code)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>artstatus</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to create a blank template for current art status. For suggestions t.me/horatiohusky -->
