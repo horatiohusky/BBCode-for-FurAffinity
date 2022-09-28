@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣠⣤⣤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⣴⣾⣿⣿⣿⠿⠟⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠻⠿⣿⣿⣿⣷⠀⠀⠀⠀
+⠀⠀⣾⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀⠈⠙⢿⣷⠀⠀⠀
+⠀⠀⢿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀ ⠀⠀⠀  ⣠⣿⣿⠀⠀⠀
+⠀⠀⠀⢻⣿⣿⣿⣶⣶⣤⣤⣤⣀⣀⣀⣀⣀⣀⣤⣤⣤⣶⣾⣿⣿⣿⡟⠀⠀⠀
+⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠛⠛⠛⠋⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+]]></content>
+  <description>Ring (ring)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>ring</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate ASCII art of a ring. For suggestions t.me/horatiohusky -->

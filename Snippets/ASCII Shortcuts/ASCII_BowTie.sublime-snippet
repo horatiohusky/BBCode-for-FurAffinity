@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[⠀⠀
+ ⣼⣿⣿⣶⣶⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀  ⢀⣀⣤⣴⣶⣶⣿⣿⣧⠀⠀
+⢸⣿⣿⣿⣿⣏⠙⠛⠻⠇⢰⣿⣿⣿⣿⣿⣿⡆⠸⠟⠛⠋⣹⣿⣿⣿⣿⡇⠀
+⢸⣿⣿⣿⣿⣿⣿⣿⠶⠀⢸⣿⣿⣿⣿⣿⣿⡇⠀⠶⣿⣿⣿⣿⣿⣿⣿⡇⠀
+⢸⣿⣿⣿⣿⣏⣠⣤⣴⡆⠸⣿⣿⣿⣿⣿⣿⠇⢰⣦⣤⣄⣹⣿⣿⣿⣿⡇⠀
+ ⢻⣿⣿⠿⠿⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀  ⠈⠉⠛⠻⠿⠿⣿⣿⡟⠀⠀
+ ]]></content>
+  <description>Bow Tie (bowtie)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>bowtie</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate ASCII art of a bow tie. For suggestions t.me/horatiohusky -->

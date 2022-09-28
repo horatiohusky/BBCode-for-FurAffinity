@@ -105,6 +105,16 @@ will elicit an outputed list of emojis listed on the right.
     crosses         Cross symbols keyboard
     fractions       Fraction symbols keyboard
 ```
+## ASCII Text Art
+
+Pressing 'Tab' after typing any of the phrases on the left
+will elicit an output of the corresponding ASCII text art.
+```
+    bowtie      bowtie text art
+    medal       medal text art
+    shield      shield with ribbon text art
+    ring        ring text art
+```
 
 ## Hex Code Shortcuts
 
@@ -178,6 +188,8 @@ will elicit the equivalent hex code listed on the right.
     border8         ╔═⛧ﾐ
     border9         ┍━♔
     border10        ┍━♛
+
+    border11        ╭┈✦
 ```
 ##### Page Breaks
 ```

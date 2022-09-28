@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⠂⣰⣶⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⡏⢠⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡈⠻⣿⣿⣶⣾⣿⣿⣿⣿⠿⠋⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣶⣄⠙⣿⣿⣿⣿⣟⢁⣴⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⡏⢠⣿⠟⠛⢿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⣠⣶⣷⣤⡈⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+]]></content>
+  <description>Medal (medal)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>medal</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate ASCII art of a medal. For suggestions t.me/horatiohusky -->
