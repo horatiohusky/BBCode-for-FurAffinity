@@ -114,6 +114,7 @@ will elicit an output of the corresponding ASCII text art.
     medal       medal text art
     shield      shield with ribbon text art
     ring        ring text art
+    feather     feather text art
 ```
 
 ## Hex Code Shortcuts
@@ -212,7 +213,10 @@ will elicit the equivalent hex code listed on the right.
     cutebreaks          ⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆
     sparklesbreaks      ●・○・●・○・●・○・●・○・●
 ```
-
+##### Singular Symbols
+```
+    ඞ       sus
+```
 
 
 

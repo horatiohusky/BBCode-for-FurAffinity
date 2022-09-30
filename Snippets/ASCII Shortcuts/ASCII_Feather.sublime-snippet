@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+[center]⠀⠀
+(`/\
+`=\/\
+`=\/\
+`=\/
+...,.,..\...
+[/center]
+]]></content>
+  <description>feather (feather)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>feather</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate ASCII art of a feather. For suggestions t.me/horatiohusky -->
