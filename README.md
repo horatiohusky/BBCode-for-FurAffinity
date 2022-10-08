@@ -115,6 +115,7 @@ will elicit an output of the corresponding ASCII text art.
     shield      shield with ribbon text art
     ring        ring text art
     feather     feather text art
+    bread       bread text art
 ```
 
 ## Hex Code Shortcuts
@@ -215,7 +216,7 @@ will elicit the equivalent hex code listed on the right.
 ```
 ##### Singular Symbols
 ```
-    ඞ       sus
+    sus       ඞ
 ```
 
 
