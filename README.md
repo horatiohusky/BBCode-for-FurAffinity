@@ -8,21 +8,31 @@ This is a fork by t.me/horatiohusky of the [BBCode Bundle for Sublime Text][1] b
 
 Step 1. Download [Sublime Text 4](https://www.sublimetext.com/download).
 
-![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepOne.PNG "#1.")
+![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step1.JPG "#1.")
 
 Step 2. Install, Launch, and then go to **`Tools > Install Package Control`**. Hit OK and Package Control will install.
 
-![StepTwoImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepTwo.PNG "#2")
+![StepTwoImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step2.JPG "#2")
 
-Step 3. **`Preferences > Package Control`** and then type 'Install Package' and hit <kbd>Enter</kbd>. Also possible with the shortcut <kbd>Ctrl+Shift+P</kbd>.
+Step 3. **`Preferences > Package Control`** and then type 'Install Package' and hit <kbd>Enter</kbd>. Also possible with the shortcut <kbd>Ctrl+Shift+P</kbd>. In new search bar look up 'BBCode Syntax' and click on result to download.
 
-![StepThreeImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepThree.PNG "#3")
+![StepThreeImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step3.JPG "#3")
+![StepFourImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step4.JPG "#4")
+![StepFiveImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step5.JPG "#5")
 
-Step 4. In new search bar look up 'BBCode-for-FurAffinity' and click on result to download. Restart Sublime Text before using. 
+Step 4. Download the 'BBCode for FurAffinity' ZIP file from this Github page and extract it to its own folder. <kbd>CTRL+C</kbd> the folder inside of the newly unzipped folder.   
 
-![StepFourImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/StepFour.PNG "#4")
+![StepSixImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step6.JPG "#6")
+![StepSevenImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step7.JPG "#7")
 
-Optional: Dragging the unzipped 'BBCode-for-FurAffinity' folder into **`Preferences > Browse packages`**.
+Step 5. In preferences, open **`Preferences > Browse Packages`** and <kbd>CTRL+V</kbd> the folder from your clipboard, it should show up right below the 'User' folder. 
+
+![StepEightImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step8.JPG "#8")
+![StepNineImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step9.JPG "#9")
+
+Step 6. Lastly, open up the bottom tab where it says **`Plain Text`** and select 'BBCode for FurAffinity'.
+
+![StepTenImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step10.JPG "#10")
 
 ## General Shortcuts
 
