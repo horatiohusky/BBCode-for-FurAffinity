@@ -8,7 +8,7 @@ This is a fork by t.me/horatiohusky of the [BBCode Bundle for Sublime Text][1] b
 
 Step 1. Download [Sublime Text 4](https://www.sublimetext.com/download).
 
-![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step1.JPG "#1.")
+![StepOneImage](https://raw.githubusercontent.com/horatiohusky/BBCode-for-FurAffinity/main/HowtoInstall/Step1.PNG "#1.")
 
 Step 2. Install, Launch, and then go to **`Tools > Install Package Control`**. Hit OK and Package Control will install.
 
