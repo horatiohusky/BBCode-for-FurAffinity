@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+:8bitstars1icon: :8bitstars3icon: :8bitstars2icon: <- white
+:8bitstars11icon: 8bitstars33icon: :8bitstars44icon: <- blue
+:8bitstarsp1icon: :8bitstarsp3icon: :8bitstars2icon: <- purple
+:8bitstarsred1icon: :8bitstarsred2icon: :8bitstarsred3icon: <- red
+:8bitstars111icon: :8bitstars222icon: :8bitstars333icon: <- green
+:8bitstarshon1icon: :8bitstarshon2icon: :8bitstarshon3icon: <- yellow
+:8bitstarspink1icon: :8bitstarspink2icon: :8bitstarspink3icon: <- hot pink
+
+:zoomkaprofile1icon: :zoomkaprofile4icon: :zoomkaprofile5icon: <- yellow, blue, and pink small stars
+
+:8bithugestars1icon: <- large yellow stars
+    ]]></content>
+  <description>8 Bit Stars List (8 bit stars list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>8BitStars</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of 8 Bit Stars FurAffinity icons. For suggestions t.me/horatiohusky -->

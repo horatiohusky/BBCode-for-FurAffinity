@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+:8bitheartredicon: :8bitheartpinkicon: :8bitheartblackicon: :8bitheartgoldicon: :8bitheartoricon: :8bitheartsilvericon: :8bitheartlblueicon: :8bitheartblueicon: :8bitheartpurpleicon: :8bitheartgreenicon: :8bitheartrainicon:
+
+:prideicon1icon: :prideicon2icon: :prideicon3icon: :prideicon4icon: :prideicon5icon: :prideicon6icon: :prideicon7icon: 
+
+:spinninghearticon: :8bitheartblredicon: 
+    ]]></content>
+  <description>8 Bit Hearts List (8 bit hearts list)</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>8BitHearts</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate the entire list of 8 Bit Heart FurAffinity icons. For suggestions t.me/horatiohusky -->

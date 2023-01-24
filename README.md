@@ -117,6 +117,13 @@ will elicit an outputed list of emojis listed on the right.
 
     flags           Flags symbols keyboard
 ```
+
+## FA Icon Lists
+```
+    8BitHearts          8 Bit Heart FA Icons
+    8BitStars           8 Bit Star FA Icons
+```
+
 ## ASCII Text Art
 
 Pressing 'Tab' after typing any of the phrases on the left
