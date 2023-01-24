@@ -2,6 +2,6 @@
   <content><![CDATA[ • • • • • • • • ]]></content>
   <description>Spaced Bullets (spaced bullets)</description>
   <scope>text.bbcode</scope>
-  <tabTrigger>spaced bullets</tabTrigger>
+  <tabTrigger>spacedbullets</tabTrigger>
 </snippet>
 <!-- This snippet serves as a shortcut to generate row of spaced bullets. For suggestions t.me/horatiohusky -->

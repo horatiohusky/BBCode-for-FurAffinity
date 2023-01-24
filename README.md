@@ -114,6 +114,8 @@ will elicit an outputed list of emojis listed on the right.
     planets         Planets symbols keyboard
     crosses         Cross symbols keyboard
     fractions       Fraction symbols keyboard
+
+    flags           Flags symbols keyboard
 ```
 ## ASCII Text Art
 
