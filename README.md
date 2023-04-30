@@ -204,7 +204,7 @@ will elicit the equivalent hex code listed on the right.
 ```
     border1         ╔═
     border2         ┏━━
-    border3         ╭─━━
+    border3         ╭━━━
     border4         ╭⸻
     border5         ┍━★
     border6         ┍━⋆⋅☆

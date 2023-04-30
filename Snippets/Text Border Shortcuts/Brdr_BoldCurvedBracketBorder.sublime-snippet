@@ -1,7 +1,7 @@
 <snippet>
-  <content><![CDATA[╭─━━━━━━━━━━━━─╮
+  <content><![CDATA[╭━━━━━━━━━━━━━━╮
 
-╰─━━━━━━━━━━━━─╯]]></content>
+╰━━━━━━━━━━━━━━╯]]></content>
   <description>Bold Curved Bracket Border (bold curved bracket border)</description>
   <scope>text.bbcode</scope>
   <tabTrigger>border3</tabTrigger>
