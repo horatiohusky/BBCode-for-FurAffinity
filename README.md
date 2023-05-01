@@ -123,8 +123,8 @@ will elicit an outputed list of emojis listed on the right.
 Pressing 'Tab' after typing any of the phrases on the left
 will elicit an outputed list of emojis listed on the right.
 ```
-    8BitHearts          8 Bit Heart FA Icons
-    8BitStars           8 Bit Star FA Icons
+    EightBitHearts          8 Bit Heart FA Icons
+    EightBitStars           8 Bit Star FA Icons
 ```
 
 ## ASCII Text Art
