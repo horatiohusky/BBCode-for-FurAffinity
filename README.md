@@ -118,7 +118,7 @@ will elicit an outputed list of emojis listed on the right.
     flags           Flags symbols keyboard
 ```
 
-## FA Icon Lists
+## FA Icon Lists (Currently Non-Functional)
 
 Pressing 'Tab' after typing any of the phrases on the left
 will elicit an outputed list of emojis listed on the right.
