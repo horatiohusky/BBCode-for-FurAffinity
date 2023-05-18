@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[[right][sub][color=]Page design by [/color] [url=https://www.furaffinity.net/user/horatiohusky/][color=]horatiohusky[/color][/url][/sub][/right]]]></content>
+  <description>Horatio's Signature</description>
+  <scope>text.bbcode</scope>
+  <tabTrigger>signature</tabTrigger>
+</snippet>
+<!-- This snippet serves as a shortcut to generate Horatio's BB Code signature. For suggestions t.me/horatiohusky -->

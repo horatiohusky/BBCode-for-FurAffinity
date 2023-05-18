@@ -77,6 +77,7 @@ will elicit an outpute described on the right.
     18+warning      Returns an 18+ warning message
     thankyou        Returns a thank you message
     artstatus       Returns a blank art status template
+    signature       Returns Horatio's signature
 ```
 
 ## Emoticon Lists
